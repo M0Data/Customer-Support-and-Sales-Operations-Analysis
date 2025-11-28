@@ -1,4 +1,4 @@
-# Call-center-Analysis
+# Customer Support & Sales Operations Dashboard
 A Power BI project on the performance of a call center dataset.
 
 ![overview of dashboard](https://github.com/M0Data/Call-center-Dashboard/blob/main/call%20center.PNG?raw=true)
